@@ -5,3 +5,4 @@
   console.log(speakWord + " " + name);
 }
  window.goodbyeSpeaker = goodbyeSpeaker;
+}
